@@ -5,7 +5,7 @@
 ### `npm i tailwindcss`
 NPM
 ### `npm start`
-YARN
+YARN   
 ### `yarn start`
 
 ### `yarn test`
