@@ -2,7 +2,7 @@
 
 ## To build the project locally, run:
 
-
+### `npm i tailwindcss`
 NPM
 ### `npm start`
 YARN
